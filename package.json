@@ -1,0 +1,10 @@
+{
+  "name": "agent-search-mcp",
+  "version": "0.1.0",
+  "description": "Free-first Chinese and English web search MCP using zero-key sources and inspectable evidence.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
