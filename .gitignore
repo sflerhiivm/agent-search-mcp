@@ -8,3 +8,4 @@ tmp/
 .cache/
 coverage/
 .pytest_cache/
+*.orig
